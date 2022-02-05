@@ -2,7 +2,7 @@
 
 Proman API serves backend needs for project management application used to manage projects, members and tasks. It has been built on Spring platform using spring-boot framework.
 
-## Getting Started
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
